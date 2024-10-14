@@ -1,5 +1,6 @@
+# my-react-app
 
-An 8 page e-commerce website with the 
+An 8-page e-commerce website with the 
 home page,
 product detail page, 
 cart and checkout page, 
@@ -9,11 +10,46 @@ for him page,
 for her page, 
 journal page. 
 
-with great UI UX built using react with the product detail page having a search bar to search and filter out reviewes, integrated gpay, paypal, visa, amex and mastercard for checkout on the cart page.
-the under 20 and under 40 page having filtering options to filter out products based upon category of products i.e body-lotion, body-wash and body-scurb.
-tech stack used = react, javascript, scss and css.
+With great UI/UX built using React with the product detail page having a search bar to search and filter out reviews, integrated gpay, paypal, visa, amex, and mastercard for checkout on the cart page. The under 20 and under 40 page have filtering options to filter out products based upon the category of products i.e body-lotion, body-wash, and body-scrub.
 
-DO STAR THE REPO 🌟
+Tech stack used: React, JavaScript, SCSS, and CSS.
+
+**DO STAR THE REPO 🌟**
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 
 # Getting Started with Create React App
@@ -86,3 +122,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# my-react-app
+>>>>>>> 0da3b902f0a585bebcbe9a4f16ffc1d643a202b6
